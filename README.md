@@ -6,7 +6,7 @@
 - <b>Database Design </b>
   - Book Publishing System (https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Machine Learning And Visualization </b>
-  - [Fraud Detection](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
   - [ Weather-Driven Business Decisions (Predictive Analytics)](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Car Sell Price Prediction (Predictive Analytics)](https://github.com/joshmadakor1/Jwipe.PowerShell)
