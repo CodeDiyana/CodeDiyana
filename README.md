@@ -8,20 +8,16 @@
 - <b>Machine Learning And Visualization </b>
   - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
-  - [ Weather-Driven Business Decisions (Predictive Analytics)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Car Sell Price Prediction (Predictive Analytics)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Salary Prediction](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [ Weather-Driven Business Decisions (Predictive Analytics)](h...)
+  - [Car Sell Price Prediction (Predictive Analytics)](....)
+  - [Salary Prediction](....)
+  - [FIM (File Integrity Monitor)](...)
 - <b>C++ And CAD </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Ransomware Proof of Concept (Encrypter)](...)
+  - [Ransomware Proof of Concept (Decrypter)](....)
+  - [Keylogger with Email Capability](....)
 - <b>Python and Algorithm</b>
-  - A Libary Managment System (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - A Libary Managment System (...)
 
 
 <h2> 🤳 Connect with me:</h2>
