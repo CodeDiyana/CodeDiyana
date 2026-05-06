@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Diyana! <br/><a href="https://github.com/joshmadakor1"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Data Science & Informatics student </a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Database Design </b>
   - Book Publishing System (https://github.com/joshmadakor1/Algorithms-Practice)
