@@ -7,7 +7,7 @@
   - Book Publishing System (https://github.com/CodeDiyana/BookPublishingSystem/blob/main/README.md))
  
 - <b>Python and Algorithm</b>
-  - A Libary Managment System ([...](https://github.com/CodeDiyana/A-Libary-Managment-System))
+  - A Libary Managment System ((https://github.com/CodeDiyana/A-Libary-Managment-System))
 
 
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
