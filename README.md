@@ -9,7 +9,7 @@
   - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
   - [ Weather-Driven Business Decisions (Predictive Analytics)](h...)
-  - [Car Sell Price Prediction (Predictive Analytics)](....)
+  - [Car Sell Price Prediction (Predictive Analytics)](https://github.com/CodeDiyana/Car-Sell-Price-Prediction)
   - [Salary Prediction](....)
   - [FIM (File Integrity Monitor)](...)
 - <b>C++ And CAD </b>
