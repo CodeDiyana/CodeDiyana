@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Database Design </b>
-  - Book Publishing System ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CodeDiyana/BookPublishingSystem/blob/main/README.md))
+  - Book Publishing System ([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/CodeDiyana/BookPublishingSystem/blob/main/README.md)](https://github.com/CodeDiyana/BookPublishingSystem/blob/main/README.md))
 - <b>Machine Learning And Visualization </b>
   - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
