@@ -5,19 +5,24 @@
 
 - <b>Database Design </b>
   - Book Publishing System (https://github.com/CodeDiyana/BookPublishingSystem/blob/main/README.md))
-- <b>Machine Learning And Visualization </b>
-  - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
+ 
+- <b>Python and Algorithm</b>
+  - A Libary Managment System (...)
+
+
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
   - [ Weather-Driven Business Decisions (Predictive Analytics)](h...)
   - [Car Sell Price Prediction (Predictive Analytics)](https://github.com/CodeDiyana/Car-Sell-Price-Prediction)
   - [Salary Prediction](https://github.com/CodeDiyana/Salary-Prediction)
  
+- <b>Machine Learning And Visualization </b>
+  - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
+ 
+ 
 - <b>C++ And CAD </b>
   - [Ransomware Proof of Concept (Encrypter)](...)
   - [Ransomware Proof of Concept (Decrypter)](....)
   - [Keylogger with Email Capability](....)
-- <b>Python and Algorithm</b>
-  - A Libary Managment System (...)
 
 
 <h2> 🤳 Connect with me:</h2>
