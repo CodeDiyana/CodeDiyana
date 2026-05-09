@@ -20,10 +20,7 @@
  
  
 - <b>C++ And CAD </b>
-  - [Ransomware Proof of Concept (Encrypter)](...)
-  - [Ransomware Proof of Concept (Decrypter)](....)
-  - [Keylogger with Email Capability](....)
-
+ 
 
 <h2> 🤳 Connect with me:</h2>
 
