@@ -15,7 +15,7 @@
   - [Car Sell Price Prediction (Predictive Analytics)](https://github.com/CodeDiyana/Car-Sell-Price-Prediction)
   - [Salary Prediction](https://github.com/CodeDiyana/Salary-Prediction)
  
-- <b>Machine Learning And Visualization </b>
+- <b>Machine Learning And Visualization (Tableau)</b>
   - [Fraud Detection](https://github.com/CodeDiyana/FraudDetection) <b><i></b></i>
  
  
