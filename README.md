@@ -8,6 +8,9 @@
  
 - <b>Python and Algorithm</b>
   - A Libary Managment System (https://github.com/CodeDiyana/A-Libary-Managment-System)
+- <b>Statistics for data analysis</b>
+  - Coffe Consumtion (https://github.com/CodeDiyana/A-Libary-Managment-System)
+
 
 
 - <b>Predictive Analysis (Classifications, Regression, Clustering)</b>
